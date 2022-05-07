@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=an-hacker&label=Profile%20views&color=0e75b6&style=flat" alt="an-hacker" /> </p>
 
-- 🔭 I’m currently working on **Blockchain**
+- 🔭 I’m currently working on **Full Stack Developer**
 
-- 🌱 I’m currently learning **Data science**
+- 🌱 I’m currently learning **Blockchain**
 
 - 📫 How to reach me **anandkumarsatapathy@gmail.com**
 
